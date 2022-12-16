@@ -39,7 +39,7 @@ classe objeto atributos e ações
 
 
 
-um exemplo de objeto é voce pensar num carro:<img width="800" alt="Captura de Tela 2022-12-16 às 15 31 35" src="https://user-images.githubusercontent.com/96171976/208165354-b364ef3c-a0ef-4cb9-8b57-780cbce05b1d.png">
+um exemplo de objeto é voce pensar num carro:
 
 um carro tem varias caracteristicas como cor, marca, ano, modele etc.
 o carro é um objeto e passamos essa visão para a linguagem computacinal, isso pra ficar mais facil mudar alguma caracteristicas se precisarmos.
