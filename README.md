@@ -100,3 +100,8 @@ resumindo para acessar um site, digitamos a URL https://www.site.com,
 
 Quando digitamos num navegador uma URL , o navegador se encarrega de saber qual é o IP e a porta
 que estamos tentando acessar.
+
+<img width="799" alt="Captura de Tela 2022-12-18 às 10 36 06" src="https://user-images.githubusercontent.com/96171976/208301340-7362bb7e-9405-490d-a2a1-c298ab6ef9df.png">
+
+
+
