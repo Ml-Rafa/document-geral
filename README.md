@@ -93,6 +93,8 @@ Onde ficar armazenado os dados que seram acessados pelo cliente.
 
 <img width="824" alt="Captura de Tela 2022-12-18 às 10 37 08" src="https://user-images.githubusercontent.com/96171976/208301384-2e3aa0b9-11d7-4d87-be13-44b6a81d2b0e.png">
 
+Nesse exemplo o computador ( A ) esta tentando acessar via internet o computador B, e pra isso ele pega e IP e a porta onde esta guardado as informações. 
+
 
 
 _____________________________________________
