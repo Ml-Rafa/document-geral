@@ -74,3 +74,29 @@ OBS: em ruby eu acsso deferente de javascript , fica assim...
 
 ticket[:group_id] = 1
 ticket[:title] = "Ajuda"
+
+_____________________________________________
+_____________________________________________
+Como funciona a web ?
+_____________________________________________
+_____________________________________________
+
+Arquitetura basica web
+
+### Cliente :
+
+Dispositivos por onde temos acesso as informações, como celular e computador conectados a uma internet.
+
+### Servidor
+
+Onde ficar armazenado os dados que seram acessados pelo cliente.
+
+_____________________________________________
+
+# Comunicação na web
+
+Para nos comunicarmos na internet, precisamos saber qual o IP e  a porta que queremos acessar,
+resumindo para acessar um site, digitamos a URL https://www.site.com,
+
+Quando digitamos num navegador uma URL , o navegador se encarrega de saber qual é o IP e a porta
+que estamos tentando acessar.
